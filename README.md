@@ -77,9 +77,3 @@ This project is released for educational and non-commercial use.
 Contact the development team for adaptation or deployment at scale.
 
 ***
-
-Make your repo stand out by copying this into your README.md file!
-Let me know if you want it further personalized with your name, logo, or usage screenshots.
-
-Citations:
-[1] selected_image_155801199116023879.jpg https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/83014627/c41ed585-9036-48d0-a21e-5d7b554682e0/selected_image_155801199116023879.jpg
