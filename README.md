@@ -76,5 +76,7 @@ Open to all improvements and collaborations!
 This project is released for educational and non-commercial use.  
 Contact the development team for adaptation or deployment at scale .
 
- 📬 ContactFor queries, suggestions, or collaboration opportunities:Name: Sharath SadigeEmail: your.sharathsadigesharath@gmail.comLinkedIn: 
-***https://www.linkedin.com/in/sharath-sadige-834857380/
+ 📬 ContactFor queries, suggestions, or collaboration opportunities:
+ Name: Sharath Sadige
+ Email: sharathsadigesharath@gmail.com
+ LinkedIn: https://www.linkedin.com/in/sharath-sadige-834857380/
